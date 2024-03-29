@@ -1,1 +1,3 @@
 Això del GitHub sembla molt senzill però m'atavala una mica.
+
+He fet canvis a Master i no era on havia de fer-ho. A viam si ara si.
